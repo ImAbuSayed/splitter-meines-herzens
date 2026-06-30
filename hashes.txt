@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Splitter meines Herzens
+
+This log tracks the cryptographic history and versioning for the song **Splitter meines Herzens** (splitter-meines-herzens).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T23:20:07.853254 | `v1` | `83efcf8df06a019551be05d31c8678859b64e21302c4caaed5fbec48b15dd15b` | `a032a7ca812c6444995e654ab30b4c7d8ad235781feb57d1c3460ea143dd1fa6` | `2026-06-30_splitter-meines-herzens-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
