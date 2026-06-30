@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/splitter-meines-herzens/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Splitter meines Herzens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/splitter-meines-herzens/) |
+| **Get License** | [Commercial Licensing for Splitter meines Herzens](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/splitter-meines-herzens/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dein Blick trifft mich tief, und mein Herz brennt wie Feuer
+> Wir jagen durch die Nacht, jeder Kuss wird noch teurer
+> Baby, du bist Gift, doch ich brauche deinen Bann
+> Zwei Seelen im Rausch, weil ich nicht mehr ohne kann
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
